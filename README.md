@@ -1,0 +1,2 @@
+# Exercise-Basketball
+We will create a website to manage Bootcamp's 3on3 tournament.  Registration Phase: The user must be logged in to use the website. He gives just a name and email during signup. After logging in he is presented with the list of existing teams. The user can either create a new team or request to join an existing one. Only the creator of each team can accept or decline the offers. Each user can only join one team.
